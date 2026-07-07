@@ -4,8 +4,6 @@ A **Full-Stack Expense Tracker Web Application** built using the **MERN Stack (M
 
 This application helps users **manage personal finances, track expenses, and visualize spending habits** through an interactive dashboard.
 
----
-
 # 🚀 Key Features
 
 - Add, edit, and delete transactions  
@@ -16,8 +14,6 @@ This application helps users **manage personal finances, track expenses, and vis
 - Track monthly savings and goals  
 - Fully responsive UI (mobile + desktop)
 
----
-
 # 🔐 Authentication & Security
 
 - Secure user authentication using **JWT**
@@ -25,16 +21,12 @@ This application helps users **manage personal finances, track expenses, and vis
 - Protected routes for user-specific data
 - Secure **REST API architecture**
 
----
-
 # 📊 Dashboard & Insights
 
 - Income vs Expense comparison
 - Monthly financial summaries
 - Category-based analytics
 - Interactive charts using **Recharts / Chart.js**
-
----
 
 # 🧰 Tech Stack
 
@@ -54,8 +46,6 @@ This application helps users **manage personal finances, track expenses, and vis
 - JWT
 - bcrypt
 
----
-
 # 💡 Key Learnings
 
 - Building scalable **MERN stack applications**
@@ -64,16 +54,12 @@ This application helps users **manage personal finances, track expenses, and vis
 - Creating **data visualizations for analytics dashboards**
 - Developing **responsive UI/UX**
 
----
-
 # 🚧 Future Improvements
 
 - Budget alerts & notifications
 - Export reports (PDF / CSV)
 - Dark / Light theme toggle
 - Shared budgeting for multiple users
-
----
 
 # 💡 Conclusion
 
