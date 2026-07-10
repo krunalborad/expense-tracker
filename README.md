@@ -60,7 +60,7 @@ This application helps users **manage personal finances, track expenses, and vis
 - Export reports (PDF / CSV)
 - Dark / Light theme toggle
 - Shared budgeting for multiple users
-
+  
 # 💡 Conclusion
 
 This project demonstrates a **complete end-to-end MERN stack application**, combining secure authentication, REST API architecture, interactive dashboards, and responsive UI design.
