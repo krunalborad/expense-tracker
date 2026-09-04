@@ -6,7 +6,7 @@ This application helps users **manage personal finances, track expenses, and vis
 
 # 🚀 Key Features
 
-- Add, edit, and delete transactions  
+- Add, edit, and delete transactions
 - Categorize income and expenses  
 - Monthly transaction filtering  
 - Category-wise spending insights  
