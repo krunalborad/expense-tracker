@@ -9,7 +9,7 @@ This application helps users **manage personal finances, track expenses, and vis
 - Add, edit, and delete transactions
 - Categorize income and expenses  
 - Monthly transaction filtering  
-- Category-wise spending insights  
+- Category-wise spending insights
 - Interactive financial charts  
 - Track monthly savings and goals  
 - Fully responsive UI (mobile + desktop)
